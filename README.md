@@ -4,4 +4,4 @@ Simple recipes website using HTML
 
 Objectives:
 
-    - Learn
+    - Learn HTML structure, elements and tags.
